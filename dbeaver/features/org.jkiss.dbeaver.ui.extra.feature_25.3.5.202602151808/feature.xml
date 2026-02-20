@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.jkiss.dbeaver.ui.extra.feature"
+      label="DBeaver Desktop UI Extras"
+      version="25.3.5.202602151808"
+      provider-name="DBeaver Corp">
+
+   <copyright>DBeaver Corp and others</copyright>
+   <license url="https://dbeaver.io/product/dbeaver_license.txt"/>
+
+   <plugin id="org.jkiss.dbeaver.tasks.ui" version="1.0.151.202602151808" />
+   <plugin id="org.jkiss.dbeaver.tasks.ui.view" version="1.0.122.202602151808" />
+   <plugin id="org.jkiss.dbeaver.tasks.native.ui" version="1.0.151.202602151808" />
+   <plugin id="org.jkiss.dbeaver.tasks.sql.ui" version="1.0.139.202602151808" />
+   <plugin id="org.jkiss.dbeaver.ui.config.migration" version="2.1.236.202602151808" />
+   <plugin id="org.jkiss.dbeaver.cmp.simple.ui" version="6.0.169.202602151808" />
+   <plugin id="org.jkiss.dbeaver.ui.dashboard" version="1.0.170.202602151808" />
+   <plugin id="org.jkiss.dbeaver.ui.editors.locks" version="1.0.218.202602151808" />
+
+</feature>
